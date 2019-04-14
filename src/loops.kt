@@ -94,4 +94,6 @@ fun main(args: Array<String>) {
     calculateChessPosition(Pair(3,2))
 
     // I choose not to do the other algorithmic problems for now.
+
+    // Now
 }
